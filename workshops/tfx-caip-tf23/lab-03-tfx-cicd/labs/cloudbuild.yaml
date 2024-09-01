@@ -19,6 +19,7 @@
 # supports automated building and deploying.
 # 
 
+
 steps:
 # Build the image that encapsulates the pipeline.
 - name: 'gcr.io/cloud-builders/docker'
